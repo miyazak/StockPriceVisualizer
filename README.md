@@ -38,6 +38,15 @@ npm.cmd run dev
 
 4. ブラウザで表示されたURLを開く
 
+## 開発サーバーの停止
+開発サーバーを起動したターミナルで次を実行します。
+
+1. `Ctrl + C` を押す
+2. 停止確認が表示された場合は `Y` を入力して Enter
+
+VS Codeのタスクから起動している場合は、コマンドパレットで
+`Tasks: Terminate Task` を実行し、`Run Vite Dev Server` を停止してください。
+
 ## ビルド
 
 ```powershell

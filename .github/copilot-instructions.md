@@ -1,26 +1,26 @@
-- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] .github ディレクトリに copilot-instructions.md が作成されていることを確認
 
-- [x] Clarify Project Requirements
+- [x] プロジェクト要件の明確化
 
-- [x] Scaffold the Project
+- [x] プロジェクトの雛形作成
 
-- [x] Customize the Project
+- [x] 要件に合わせたカスタマイズ
 
-- [x] Install Required Extensions
-No extensions needed.
+- [x] 必要な拡張機能のインストール
+追加の拡張機能は不要。
 
-- [x] Compile the Project
-Build and lint executed successfully.
+- [x] プロジェクトのコンパイル
+Build と lint の実行に成功。
 
-- [x] Create and Run Task
-Created VS Code task: Run Vite Dev Server.
+- [x] タスクの作成と実行
+VS Code タスク「Run Vite Dev Server」を作成。
 
-- [x] Launch the Project
-Confirmed and launched dev server.
+- [x] プロジェクトの起動
+確認のうえ開発サーバーを起動。
 
-- [x] Ensure Documentation is Complete
-README and this file are updated.
+- [x] ドキュメントの整備完了
+README と本ファイルを更新済み。
 
-- Work through each checklist item systematically.
-- Keep communication concise and focused.
-- Follow development best practices.
+- 各チェック項目を順番に実施する。
+- コミュニケーションは簡潔かつ要点を明確にする。
+- 開発のベストプラクティスに従う。
